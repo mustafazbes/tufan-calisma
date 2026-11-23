@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mustafazahidbesibirlik/Downloads/tfn/tufan-calisma/main'
+relocations:     []
+...
